@@ -72,7 +72,7 @@ A team-led spam detection system shipped as both a real-time Chrome extension an
 A demo model applying data analytics and machine learning techniques to predict stock price trends from historical data.
 `Python` `Data Analytics`
 
-> 💡 Replace the `#` links above with your actual repository URLs once you push these projects to GitHub.
+> 
 
 ---
 
